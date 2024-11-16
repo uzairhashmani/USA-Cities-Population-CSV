@@ -6,6 +6,7 @@ const populationData = {
 "Bottineau, ND": 2211,
 "Gardena, ND": 29,
 "Kramer, ND": 29,
+"Salem, NH": 31549,
 "Landa, ND": 38,
 "Lansford, ND": 245,
 "Maxbass, ND": 84,
