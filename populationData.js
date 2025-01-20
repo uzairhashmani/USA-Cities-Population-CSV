@@ -27027,6 +27027,7 @@ const populationData = {
 "Tumacacori, AZ": 393,
 "Princeton, NJ": 12307,
 "Macon, GA": 153691,
+"Howell, NJ": 53,862,
 };
 
 module.exports = populationData;
